@@ -12,7 +12,7 @@ Mark tasks as completed
 Local storage persistence  
 Dark/Light mode toggle  
 
-## 🛠 Setup Instructions  
+## Setup Instructions  
 To run this project locally, follow these steps:  
 
 **1. Clone the Repository**   
